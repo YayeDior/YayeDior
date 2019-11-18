@@ -1,48 +1,41 @@
 [
-{
+
+            {
             "name":"Iphone_X",
                 "tag":"Iphone_X",
                 "price":1000,
                 "storage":256,
                 "color":"black"
-                
-                
-        },
-        {
+            },
+            {
             "name":"Samsung",
                 "tag":"Samsung_S7_edge",
                 "price":800,
                 "storage":64,
                 "color":"white"
-        
-        },
+            },
 
-        {
+            {
           "name":"Huawei",
             "tag":"Huawei_Y6",
             "price":120,
             "storage":64,
-            "color":"blue",
-        
-        },
+            "color":"blue"
+            },
       
-        {
+            {
             "name":"Nokia",
                 "tag":"Nokia_Lumia_920",
                 "price":130,
                 "storage":32,
                 "color":"Black"
-                
-        
-        },
+            },
         
           {
             "name":"Iphone_8",
                 "tag":"Iphone_8",
                 "price":700,
                 "storage":64,
-                "color":"argent",
-        
-        
-        }
-        ]
+                "color":"argent"
+          }
+]
