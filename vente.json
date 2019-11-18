@@ -37,56 +37,56 @@
                 "price":700,
                 "storage":64,
                 "color":"argent"
-            }
+            },
             {
             "name":"Iphone_7",
                 "tag":"Iphone_7",
                 "price":500,
                 "storage":128,
                 "color":"Gold"
-           }
+           },
            {
             "name":"Iphone_Xsmax",
                 "tag":"Iphone_Xsmax",
                 "price":1200,
                 "storage":256,
                 "color":"Gold"
-          }
+          },
           {
             "name":"Samsung_S9",
                 "tag":"Samsung_S9",
                 "price":1000,
                 "storage":128,
                 "color":"Black"
-          }
+          },
           {
             "name":"Iphone_6",
                 "tag":"Iphone_6",
                 "price":450,
                 "storage":64,
                 "color":"Black"
-          }
+          },
           {
             "name":"Samsung_S10",
                 "tag":"Samsung_S10",
                 "price":1200,
                 "storage":64,
                 "color":"Black"
-          }
+          },
           {
             "name":"Samsung_a7",
                 "tag":"Samsung_a7",
                 "price":300,
                 "storage":64,
                 "color":"Gold"
-          }
+          },
           {
             "name":"Nokia",
                 "tag":"Nokia",
                 "price":349,
                 "storage":128,
                 "color":"Green"
-          }
+          },
           {
             "name":"Samsung_j7",
                 "tag":"Samsung_j7",
