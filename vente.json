@@ -5,6 +5,7 @@
     "price": 1000,
     "storage": 256,
     "color": "black"
+    "imgUrl":"https://images-na.ssl-images-amazon.com/images/I/51hKehpBWML._SX679_.jpg"
   },
   {
     "name": "Samsung",
@@ -12,6 +13,7 @@
     "price": 800,
     "storage": 64,
     "color": "white"
+    "imgUr1":"https://media.auchan.fr/MEDIASTEP28841973_468x468/AFR/7fbd1ed3-c0e0-4117-a12b-273dbd0e1428.jpg"
   },
   {
     "name": "Huawei",
@@ -19,6 +21,7 @@
     "price": 120,
     "storage": 64,
     "color": "blue"
+    "imgUr1":"https://i1.wp.com/techweez.com/wp-content/uploads/2019/03/Huawei-Y6-2019.png?resize=768%2C432&ssl=1.Jpg"
   },
   {
     "name": "Nokia",
@@ -26,6 +29,7 @@
     "price": 130,
     "storage": 32,
     "color": "Black"
+    "imgUr1":"https://tse3.mm.bing.net/th?id=OIP.dY6R9FNq5TwwoXOhqf3L_AHaF7&pid=Api&P=0&w=195&h=157.jpg"
   },
   {
     "name": "Iphone_8",
@@ -33,6 +37,7 @@
     "price": 700,
     "storage": 64,
     "color": "argent"
+    "imgUrl":"https://cdn.movertix.com/media/catalog/product/cache/image/500x404/a/p/apple-iphone-8-plus-256-gb-plata-mq8q2qla-0190198455710_1.jpg"
   },
   {
     "name": "Iphone_7",
@@ -40,6 +45,7 @@
     "price": 500,
     "storage": 128,
     "color": "Gold"
+    "imgUrl":"https://4.bp.blogspot.com/-GEgAM6BwI2E/V7MO5e0bqFI/AAAAAAAAA_g/i7yMonp6sK07C10flM4GY-vK7tF5aQ-nACLcB/s640/iphone-7-mock-up.jpg"
   },
   {
     "name": "Iphone_Xsmax",
@@ -47,6 +53,7 @@
     "price": 1200,
     "storage": 256,
     "color": "Gold"
+    "imgUrl":"https://i5.walmartimages.com/asr/ad9d3aab-cff4-4a4f-aed8-b30454554067_1.34ee2acd55369419919e101b037ed47a.jpeg?odnWidth=undefined&odnHeight=undefined&odnBg=ffffff.jpg"
   },
   {
     "name": "Samsung_S9",
@@ -54,6 +61,7 @@
     "price": 1000,
     "storage": 128,
     "color": "Black"
+    "imgUrl":"https://tse2.mm.bing.net/th?id=OIP.VOUFBUh9EJWk4JDMMf4jEAHaHa&pid=Api&P=0&w=300&h=300.jpg"
   },
   {
     "name": "Iphone_6",
@@ -61,6 +69,7 @@
     "price": 450,
     "storage": 64,
     "color": "Black"
+    "imgUrl":"https://tse3.mm.bing.net/th?id=OIP.KwjhstXGdx3-fiifz_RseAHaHa&pid=Api&P=0&w=300&h=300.jpg"
   },
   {
     "name": "Samsung_S10",
@@ -68,6 +77,7 @@
     "price": 1200,
     "storage": 64,
     "color": "Black"
+    "imgUrl":"https://tse2.mm.bing.net/th?id=OIP.IUlzN8hqZtmCQwNHWdzH0wHaHa&pid=Api&P=0&w=300&h=300.jpg"
   },
   {
     "name": "Samsung_a7",
@@ -75,6 +85,7 @@
     "price": 300,
     "storage": 64,
     "color": "Gold"
+    "imgUrl":"https://tse3.mm.bing.net/th?id=OIP.CHgy_T1ETuKNY-oRFaCRHwHaHa&pid=Api&P=0&w=300&h=300.jpg"
   },
   {
     "name": "Nokia",
@@ -82,6 +93,7 @@
     "price": 349,
     "storage": 128,
     "color": "Green"
+    "imgUrl":"https://tse1.mm.bing.net/th?id=OIP.hJc6fj6_WdtKD4j1S5_XugHaHa&pid=Api&P=0&w=300&h=300.jpg"
   },
   {
     "name": "Samsung_j7",
@@ -89,5 +101,6 @@
     "price": 173,
     "storage": 64,
     "color": "Gold"
+    "imgUrl":"https://tse1.mm.bing.net/th?id=OIP.CgNoFVePzwRTb7v49nw8AwHaHa&pid=Api&P=0&w=300&h=300.jpg"
   }
 ]
